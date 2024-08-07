@@ -1,2 +1,1 @@
-# nuxt-gsap-scroll-trigger
-ScrollTrigger setup in a Nuxt3 App
+# Nuxt 3 with GSAP ScrollSmoother
